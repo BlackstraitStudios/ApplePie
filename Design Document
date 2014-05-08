@@ -1,3 +1,4 @@
 There is such a thing as a Galaxy.
-A galaxy has a spacetime which is a octree.
-An octree has eight nodes.
+A galaxy has a spacetime which is an octreenode.
+An octreenode has eight children which are octreenodes or leafnodes.
+A leafnode has many things.
